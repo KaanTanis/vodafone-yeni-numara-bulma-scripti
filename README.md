@@ -22,7 +22,7 @@ Vodafone özel numara API'sini kullanarak sistemli numara taraması yapan Node.j
 2. Gerekli paketleri yükleyin:
 
 ```bash
-npm install axios
+npm install
 ```
 
 ## ⚙️ Konfigürasyon
